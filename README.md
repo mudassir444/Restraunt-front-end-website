@@ -1,4 +1,4 @@
-"CodeBite Eats: Savor the Flavor with our Front-End Feast
+#"CodeBite Eats: Savor the Flavor with our Front-End Feast
 
 Dive into an appetizing journey on CodeBite Eats, where the perfect blend of HTML, CSS, and JS creates a delectable front-end experience. Immerse yourself in a visually captivating interface that seamlessly fuses aesthetics with functionality.
 
