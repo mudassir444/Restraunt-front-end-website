@@ -1,4 +1,4 @@
-#"CodeBite Eats: Savor the Flavor with our Front-End Feast
+#CodeBite Eats: Savor the Flavor with our Front-End Feast
 
 Dive into an appetizing journey on CodeBite Eats, where the perfect blend of HTML, CSS, and JS creates a delectable front-end experience. Immerse yourself in a visually captivating interface that seamlessly fuses aesthetics with functionality.
 
@@ -14,4 +14,4 @@ Dive into an appetizing journey on CodeBite Eats, where the perfect blend of HTM
 
 🌐 **Responsive and Accessible:** The trio of HTML, CSS, and JS ensures that CodeBite Eats is not only visually appealing but also responsive across devices. Accessibility features are incorporated, making our website a welcoming space for everyone.
 
-Indulge your senses at CodeBite Eats, where HTML, CSS, and JS collaborate to serve up a front-end experience that's as delightful as the dishes we offer. Bon appétit!"
+Indulge your senses at CodeBite Eats, where HTML, CSS, and JS collaborate to serve up a front-end experience that's as delightful as the dishes we offer. Bon appétit!
